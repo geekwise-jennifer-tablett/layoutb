@@ -1,0 +1,36 @@
+body{margin:0 auto;
+    height: 100%;
+    width:90%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+header{height:100px;
+    width:90%; background-color:chartreuse;
+}
+
+div{height:50px;
+    width:50px;
+    float: left;
+    background-color:black;
+}
+
+section{height:100px;
+    width:90%;
+    background-color:aqua;
+}
+
+#img1{height:25px;
+width:calc(100%/6);
+background-color:blue
+}
+
+#img2{height:25px;
+width:calc(100%/6);
+background-color:blue
+}
+
+#img3{height:25px;
+width:calc(100%/6);
+background-color:blue}
